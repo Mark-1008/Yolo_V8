@@ -1,0 +1,7 @@
+```plaintext
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log
+*.mp4

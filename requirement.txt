@@ -1,0 +1,4 @@
+ultralytics==8.0.0  # YOLOv8
+opencv-python       # 用于视频处理
+numpy               # 数组操作
+torch               # YOLOv8依赖
