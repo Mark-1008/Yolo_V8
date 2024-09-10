@@ -5,3 +5,4 @@ __pycache__/
 .idea/
 *.log
 *.mp4
+*.pt
